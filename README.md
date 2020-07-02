@@ -1,9 +1,8 @@
 # AVR ATmega328p 
 
-## Projects written in C++, using AVR Libs on Eclipse and Arduino hardware.
+## Projects written in C++, using AVR Libs on Eclipse.
 
-At the time it was written I was doing a lot of things with PIC microcontrollers and decided to explore AVR mcu's due to the
-price of Arduino boards and ease to find their hardware. None of the projects was written using the Arduino Libs, but C++ along with AVR Libs. In order to edit the project on Eclipse it's necessary to install the AVR Plugin for Eclipse.
+Projects I wrote with the goal of exploring the very popular ATmega328p peripherals, programming it in C++ along with the AVR libraries, instead of the Arduino IDE and framework. Projects was written in Eclipse IDE, using the AVR Plugin.
 
 AVR Eclipse Plugin: http://avr-eclipse.sourceforge.net/updatesite/
 
